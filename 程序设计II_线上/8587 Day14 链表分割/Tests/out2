@@ -1,0 +1,11 @@
+split1:
+list1:1->null
+list2:null
+split2:
+k is 1
+list1:null
+list2:1->null
+split3:
+x is 1
+list1:null
+list2:0->null

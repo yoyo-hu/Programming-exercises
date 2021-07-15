@@ -1,0 +1,7 @@
+Create an empty complex.
+Create an complex whose real is -2, image is -3.
+Create an complex whose real is 2, image is 3.
+7.2111
+Destroy an complex whose real is 2, image is 3.
+Destroy an complex whose real is -2, image is -3.
+Destroy an complex whose real is 0, image is 0.

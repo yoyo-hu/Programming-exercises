@@ -1,0 +1,5 @@
+Integer 3 is: not even, odd, prime.
+Integer 2 is: even, not odd, prime.
+Integer 1 is: not even, odd, not prime.
+0 and 0 are equal.
+String '0' convert to 0

@@ -1,0 +1,25 @@
+DeepCopy:
+index0: true
+index1: true
+index2: true
+index3: true
+index4: true
+index5: true
+index6: true
+index7: true
+index8: true
+index9: true
+RandomPoint_DeepCopy:
+index0: true
+index1: true
+index2: true
+index3: true
+index4: true
+index5: true
+index6: true
+index7: true
+index8: true
+index9: true
+PrintList:
+156(51)->60(null)->45(60)->12(62)->18(null)->197(72)->62(null)
+->30(197)->51(null)->72(null)->null

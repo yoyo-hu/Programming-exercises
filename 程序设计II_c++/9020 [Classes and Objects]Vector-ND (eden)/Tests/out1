@@ -1,0 +1,11 @@
+construct a vector called cookie.
+cookie(1, 2, 3, 4, 5)
+copy a vector called cookie.
+cookie(1, 2, 3, 4, 5)
+same name, same value.
+construct a vector called cookie.
+same name, different value.
+different name, same value.
+release memory from a vector called cookie.
+release memory from a vector called helloWorld!.
+release memory from a vector called cookie.

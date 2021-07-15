@@ -1,0 +1,20 @@
+date1: 0-1-1
+date2: 2003-1-1
+date3 after copy constructor: 2007-2-28
+date3 after copy asignment: 0-1-1
+year 1996 is leap year? 1
+year 1200 is leap year? 1
+year 1300 is leap year? 0
+year 1999 is leap year? 0
+(date1==date3)? 1
+(date1!=date3)? 0
+(date1==date2)? 0
+(date1!=date2)? 1
+(date1<date1)? 0
+(date1<=date1)? 1
+(date1<date2)? 1
+(date1<=date2)? 1
+(date1>date1)? 0
+(date1>=date1)? 1
+(date1>date2)? 0
+(date1>=date2)? 0

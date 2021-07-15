@@ -1,0 +1,20 @@
+reverse: true
+null
+Added successfully.
+1->null
+reverse: true
+1->null
+Added successfully.
+2->1->null
+reverse: true
+1->2->null
+Deleted successfully.
+2->null
+reverse: true
+2->null
+Added successfully.
+Added successfully.
+1->2->0->null
+reverse: true
+0->2->1->null
+Freed successfully.

@@ -1,0 +1,40 @@
+----- Stack s1 -----
+push 1
+push 2
+push 3
+push 4
+push 5
+pop 4
+pop 3
+pop 2
+pop 1
+pop 0
+stack is empty!
+stack is empty!
+push 6
+push 7
+push 8
+push 9
+push 10
+----- Stack s2 -----
+push 11
+push 12
+push 13
+push 14
+push 15
+pop 14
+pop 13
+pop 12
+pop 11
+pop 10
+pop 9
+pop 8
+push 16
+push 17
+push 18
+push 19
+push 20
+s1: [9,8,7,6,5]
+s2: [19,18,17,16,15,7,6,5]
+s1: [9,8,7,6,5]
+s2: [19,18,17,16,15,7,6,5]

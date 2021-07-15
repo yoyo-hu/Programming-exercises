@@ -1,0 +1,11 @@
+split1:
+list1:0->1->2->null
+list2:3->4->null
+split2:
+k is 5
+list1:null
+list2:0->1->2->3->4->null
+split3:
+x is 5
+list1:null
+list2:0->1->2->3->4->null

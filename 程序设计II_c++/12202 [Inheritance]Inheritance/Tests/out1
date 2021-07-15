@@ -1,0 +1,39 @@
+test token: 6590
+
+creat base A
+base A
+
+creat base B
+base B
+
+creat derived A
+base A
+derived A
+
+creat derived B
+base A
+base B
+derived B
+
+creat C
+base A
+derived A
+base A
+base B
+derived B
+C
+
+destructor
+~ C
+~ derived B
+~ base B
+~ base A
+~ derived A
+~ base A
+~ derived B
+~ base B
+~ base A
+~ derived A
+~ base A
+~ base B
+~ base A

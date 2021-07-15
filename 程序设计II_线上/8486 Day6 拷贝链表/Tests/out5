@@ -1,0 +1,111 @@
+DeepCopy:
+index0: true
+index1: true
+index2: true
+index3: true
+index4: true
+index5: true
+index6: true
+index7: true
+index8: true
+index9: true
+index10: true
+index11: true
+index12: true
+index13: true
+index14: true
+index15: true
+index16: true
+index17: true
+index18: true
+index19: true
+index20: true
+index21: true
+index22: true
+index23: true
+index24: true
+index25: true
+index26: true
+index27: true
+index28: true
+index29: true
+index30: true
+index31: true
+index32: true
+index33: true
+index34: true
+index35: true
+index36: true
+index37: true
+index38: true
+index39: true
+index40: true
+index41: true
+index42: true
+index43: true
+index44: true
+index45: true
+index46: true
+index47: true
+index48: true
+index49: true
+RandomPoint_DeepCopy:
+index0: true
+index1: true
+index2: true
+index3: true
+index4: true
+index5: true
+index6: true
+index7: true
+index8: true
+index9: true
+index10: true
+index11: true
+index12: true
+index13: true
+index14: true
+index15: true
+index16: true
+index17: true
+index18: true
+index19: true
+index20: true
+index21: true
+index22: true
+index23: true
+index24: true
+index25: true
+index26: true
+index27: true
+index28: true
+index29: true
+index30: true
+index31: true
+index32: true
+index33: true
+index34: true
+index35: true
+index36: true
+index37: true
+index38: true
+index39: true
+index40: true
+index41: true
+index42: true
+index43: true
+index44: true
+index45: true
+index46: true
+index47: true
+index48: true
+index49: true
+PrintList:
+198(75)->52(85)->75(96)->613(5)->512(51)->74(85)->85(5)
+->96(51)->51(96)->5(86)->1(8795)->247(33)->86(93)->33(51)
+->54(145)->120(30)->8795(19)->62(1)->51(52)->62(145)->165(626)
+->62(3)->93(78)->87(654)->92(320)->51(18)->63(19)->754(62)
+->62(92)->54(754)->320(1025)->1025(320)->654(626)->96(8795)->78(62)
+->626(165)->3(320)->6(4)->98(145)->7(30)->4(51)->812(87)
+->63(92)->16(51)->15(63)->18(754)->19(62)->20(54)->30(320)
+->145(3)->null

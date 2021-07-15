@@ -1,0 +1,22 @@
+Added successfully.
+Added successfully.
+Added failed.
+Added successfully.
+Added failed.
+Added successfully.
+Added successfully.
+3->2->1->4->5->null
+Deleted successfully.
+2->1->4->5->null
+Deleted failed.
+Deleted successfully.
+Deleted failed.
+2->1->4->null
+Deleted successfully.
+Deleted successfully.
+Deleted successfully.
+null
+Deleted failed.
+Added successfully.
+2->null
+Freed successfully.

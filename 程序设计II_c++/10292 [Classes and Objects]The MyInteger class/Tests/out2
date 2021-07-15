@@ -1,0 +1,5 @@
+Integer 100 is: even, not odd, not prime.
+Integer 151 is: not even, odd, prime.
+Integer 242 is: even, not odd, not prime.
+71 and 71 are equal.
+String '-32' convert to -32

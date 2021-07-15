@@ -1,0 +1,1 @@
+int twinPrimes(int n);

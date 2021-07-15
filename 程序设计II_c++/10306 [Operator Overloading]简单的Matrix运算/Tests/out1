@@ -1,0 +1,18 @@
+input the row and the col for Matrix a, b
+
+Matrix a:
+1 2 3 
+1 2 3 
+
+Matrix b:
+1 2 3 
+1 2 3 
+
+Matrix c = Matrix a + Matrix b :
+2 4 6 
+2 4 6 
+
+Matrix a transpose to Matrix d:
+1 1 
+2 2 
+3 3 

@@ -1,0 +1,11 @@
+split1:
+list1:70->65->null
+list2:2->null
+split2:
+k is 4
+list1:20->14->null
+list2:52->63->41->82->null
+split3:
+x is 1
+list1:2->3->4->5->null
+list2:1->null

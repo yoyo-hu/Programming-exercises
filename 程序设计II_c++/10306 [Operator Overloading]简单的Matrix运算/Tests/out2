@@ -1,0 +1,13 @@
+input the row and the col for Matrix a, b
+
+Matrix a:
+1 
+
+Matrix b:
+1 
+
+Matrix c = Matrix a + Matrix b :
+2 
+
+Matrix a transpose to Matrix d:
+1 

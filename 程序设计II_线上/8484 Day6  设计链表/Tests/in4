@@ -1,0 +1,24 @@
+reverse
+printList
+addHead
+1
+printList
+reverse
+printList
+addHead
+2
+printList
+reverse
+printList
+deleteHead
+printList
+reverse
+printList
+addHead
+1
+addIndex
+3 0
+printList
+reverse
+printList
+freeList

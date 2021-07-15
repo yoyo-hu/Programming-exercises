@@ -1,0 +1,15 @@
+Create an empty complex.
+The number of complexes is: 1
+Create an complex whose real is 8, image is 0.
+8
+The number of complexes is: 2
+Copy from an complex whose real is 8, image is 0.
+The number of complexes is: 3
+Destroy an complex whose real is 8, image is 0.
+The number of complexes is: 2
+Create an complex whose real is 2, image is 5.
+The distance is 7.81025
+The number of complexes is: 3
+Destroy an complex whose real is 2, image is 5.
+Destroy an complex whose real is 8, image is 0.
+Destroy an complex whose real is 0, image is 0.

@@ -1,0 +1,9 @@
+4 -> 3 -> 2 -> 1 -> 0 -> Null
+The size of this list is 5
+8 -> 6 -> 4 -> 2 -> 0 -> Null
+The size of this list is 5
+0 -> 1 -> 2 -> 3 -> 4 -> Null
+The size of this list is 5
+0 -> 2 -> 4 -> 6 -> 8 -> Null
+The size of this list is 5
+4 -> Null

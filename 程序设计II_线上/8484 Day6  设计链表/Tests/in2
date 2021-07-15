@@ -1,0 +1,33 @@
+addHead
+1
+addHead
+2
+addIndex
+0 3
+addIndex
+1 3
+addIndex
+5 4
+addIndex
+4 4
+addTail
+5
+printList
+deleteHead
+printList
+deleteIndex
+5
+deleteIndex
+4
+deleteIndex
+4
+printList
+deleteHead
+deleteHead
+deleteHead
+printList
+deleteHead
+addTail
+2
+printList
+freeList

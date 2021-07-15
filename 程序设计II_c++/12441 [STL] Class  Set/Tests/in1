@@ -1,0 +1,15 @@
+Items in s1 are : 1 2 4 
+Items in s2 are: 3 1 2 
+Items in s_plus are: 1 2 4 3 
+Items in s_minus are: 4 
+Items in s_intersection are: 1 2 
+Items in s1 are : 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+Items in s2 are: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 
+Items in s_plus are: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+Items in s_minus are: 15 16 
+Items in s_intersection are: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 
+Items in s1 are : a d s f h j g l c n v y e r w q t o i u b 3 2 4 5 
+Items in s2 are: a d s f h u q w e r n j t i v g b   . , p [ o 
+Items in s_plus are: a d s f h j g l c n v y e r w q t o i u b 3 2 4 5   . , p [ 
+Items in s_minus are: l c y 3 2 4 5 
+Items in s_intersection are: a d s f h j g n v e r w q t o i u b 

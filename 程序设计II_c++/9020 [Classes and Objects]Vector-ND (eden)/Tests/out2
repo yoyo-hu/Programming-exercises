@@ -1,0 +1,11 @@
+construct a vector called mike.
+mike(9, 8, 7, 6, 5, 4, 3, 2, 1, 0)
+copy a vector called mike.
+mike(9, 8, 7, 6, 5, 4, 3, 2, 1, 0)
+same name, same value.
+construct a vector called mike.
+same name, different value.
+different name, same value.
+release memory from a vector called mike.
+release memory from a vector called helloWorld!.
+release memory from a vector called mike.

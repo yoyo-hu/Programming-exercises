@@ -1,0 +1,22 @@
+Added successfully.
+Added failed.
+Added successfully.
+Added failed.
+Added successfully.
+7->9->15->null
+reverse: true
+15->9->7->null
+Deleted successfully.
+Deleted failed.
+Deleted failed.
+Added successfully.
+Added successfully.
+Deleted successfully.
+47->9->7->null
+reverse: true
+7->9->47->null
+Added successfully.
+7->9->47->6->null
+reverse: true
+6->47->9->7->null
+Freed successfully.
